@@ -6,6 +6,7 @@ export default function Header() {
       <nav className="flex gap-12">
         <Link to="/">Home</Link>
         <Link to="/recharts">Recharts</Link>
+        <Link to="/react-chartjs-2">React Chartjs 2</Link>
       </nav>
     </header>
   );
