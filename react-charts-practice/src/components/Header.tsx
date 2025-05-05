@@ -7,6 +7,7 @@ export default function Header() {
         <Link to="/">Home</Link>
         <Link to="/recharts">Recharts</Link>
         <Link to="/react-chartjs-2">React Chartjs 2</Link>
+        <Link to="/react-apexcharts">React Apex Charts</Link>
       </nav>
     </header>
   );
